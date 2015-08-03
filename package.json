@@ -35,7 +35,7 @@
     "web"
   ],
   "repository": "git://github.com/fabiocaseri/dashing-js",
-  "main": "index",
+  "main": "lib",
   "bin": {
     "dashing-js": "./bin/dashing-js"
   },
